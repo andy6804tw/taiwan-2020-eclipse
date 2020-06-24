@@ -103,5 +103,22 @@ body{
   background: rgba(0, 0, 0, 0.24);
 }
 
-.sectionInfo{
+.section-solar{
+}
+
+/* Footer */
+#site-footer {
+  margin-top: 500px;
+  position: relative;
+  background-color: #6c567b86;
+  height: 45px;
+}
+.copy{
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  font-size:12px;
+  text-align:center;
+  color: white;
+  font-weight: 300;
 }
